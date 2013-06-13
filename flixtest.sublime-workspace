@@ -1,0 +1,990 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"image",
+				"image_file_name"
+			],
+			[
+				"release",
+				"released_on"
+			],
+			[
+				"service",
+				"service_description"
+			],
+			[
+				"uniq",
+				"unique_website"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bronz",
+				"bronz_mobile"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"the_t",
+				"the_title"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"con",
+				"conditional"
+			],
+			[
+				"nth",
+				":nth-child(|)"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"subject",
+				"subject_id"
+			],
+			[
+				"Admin",
+				"AdminUser"
+			],
+			[
+				"Ad",
+				"AdminUser"
+			],
+			[
+				"admin",
+				"admin_user"
+			],
+			[
+				"ad",
+				"admin_user"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"aut",
+				"authorized_user"
+			],
+			[
+				"mak",
+				"make"
+			],
+			[
+				"hash",
+				"hash_with_salt"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			],
+			[
+				"de",
+				"def	def … end"
+			],
+			[
+				"f",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css",
+			"settings":
+			{
+				"buffer_size": 546,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/layout.css.scss",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/_header.html.erb",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/_sidebar.html.erb",
+			"settings":
+			{
+				"buffer_size": 188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/movies/_footer.html.erb",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/movies/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 738,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/movies.css.scss",
+			"settings":
+			{
+				"buffer_size": 3144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/_colors.css.scss",
+			"settings":
+			{
+				"buffer_size": 52,
+				"line_ending": "Unix",
+				"name": "$primary-color: #237CBE;"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"file",
+				"Open File Navigator"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"syntax",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruby",
+				"Format: Ruby"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"snippet jquery",
+				"Snippet: Google AJAX Libraries: jQuery"
+			],
+			[
+				"syntax html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"synta",
+				"Set Syntax: Ruby"
+			],
+			[
+				"coffee",
+				"WordPress Codex: Open Function Reference"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax ru",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Mate/Sites/rails_projects/flix/config/routes.rb",
+		"/Users/Mate/Sites/rails_projects/flix/app/views/movies/index.html.erb",
+		"/Users/Mate/Sites/rails_projects/flix/db/seeds.rb",
+		"/Users/Mate/Sites/rails_projects/flix/app/views/movies/_form.html.erb",
+		"/Users/Mate/Sites/rails_projects/flix/spec/support/attributes.rb",
+		"/Users/Mate/Sites/rails_projects/flix/app/controllers/movies_controller.rb",
+		"/Users/Mate/Sites/rails_projects/flix/app/views/movies/show.html.erb",
+		"/Users/Mate/Sites/rails_projects/flix/spec/features/delete_movie_spec.rb",
+		"/Users/Mate/Sites/rails_projects/flix/app/views/layouts/_sidebar.html.erb",
+		"/Users/Mate/Sites/rails_projects/flix/app/views/layouts/_header.html.erb",
+		"/Users/Mate/Sites/rails_projects/flix/app/helpers/movies_helper.rb",
+		"/Users/Mate/Sites/rails_projects/flix/db/migrate/20130507165038_add_more_fields_to_movies.rb",
+		"/Users/Mate/Sites/rails_projects/flix/spec/features/list_movies_spec.rb",
+		"/Users/Mate/Sites/rails_projects/flix/spec/models/movie_spec.rb",
+		"/Users/Mate/Sites/rails_projects/flix/app/models/movie.rb",
+		"/Users/Mate/Sites/rails_projects/flix/spec/features/create_movie_spec.rb",
+		"/Users/Mate/Sites/rails_projects/flix/spec/features/show_movies_spec.rb",
+		"/Users/Mate/Sites/rails_projects/flix/spec/features/edit_movie_spec.rb",
+		"/Users/Mate/Sites/rails_projects/flix/app/views/movies/edit.html.erb",
+		"/Users/Mate/Sites/rails_projects/flix/app/views/movies/new.html.erb",
+		"/Users/Mate/Sites/rails_projects/flix/app/views/movies/_footer.html.erb",
+		"/Users/Mate/Sites/rails_projects/flix/spec/features/navigate_movies_spec.rb",
+		"/Users/Mate/Sites/rails_projects/flix/config/initializers/date_formats.rb",
+		"/Users/Mate/Sites/rails_projects/flix/Gemfile",
+		"/Users/Mate/Sites/rails_projects/flix/.rspec",
+		"/Users/Mate/Sites/rails_projects/flix/db/migrate/20130504134832_create_movies.rb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/app/models/blogpost.rb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/config/initializers/date_time.rb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/db/migrate/20130502141628_create_blogposts.rb",
+		"/Users/Mate/Sites/rails_projects/flix/config/database.yml",
+		"/Users/Mate/Sites/rongy/rongy2.html",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Andris és társa/andris_honlap/sass/style.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Andris és társa/andris_honlap/css/style.css",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Prezentálom/lore_honlap/sass/style.scss",
+		"/Users/Mate/Sites/rails_projects/greenlife/app/models/post.rb",
+		"/Users/Mate/Sites/rails_projects/greenlife/db/migrate/20130427111532_create_posts.rb",
+		"/Users/Mate/Sites/rails_projects/greenlife/db/migrate/20130427181211_clear_db.rb",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Prezentálom/lore_honlap/js/bselect.js",
+		"/private/var/folders/90/wjyhxjfs3gz3xkhsk8z_sz2w0000gn/T/fz3temp-1/ie.css",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Prezentálom/lore_honlap/css/ie.css",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Prezentálom/lore_honlap/style.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/honlapcsomagok.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-webdev.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/package_comp960.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_pchart.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/header.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-order-skype.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/404.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/home.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_settings.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/style.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/fhandlers/process_profit.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-order.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-kapcsolat.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/kapcsolat.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/timeline.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/timeline.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/blog_head.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/blog_home.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/blog_single.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/blog_home.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-refs.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/main.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/refs.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/referenciak.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/slider.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/website_form.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-unique-webdev.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/unique_dev.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/unique-seo.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-seopack.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_sp.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/seopack.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_hcs.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/unique-seo.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/package_comp800.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/footer.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_menu.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/style.css",
+		"/Users/Mate/Projects/ÜA/uaszerveradatok.txt",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/company_info.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/services_module_home.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/order.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/aszf.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/aboutme.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/aszf.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/960.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/style.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/config.rb",
+		"/Users/Mate/Projects/Bevisible/Sitebackups/style.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/functions.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/480.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-aszf.php",
+		"/Users/Mate/Projects/Bevisible/szövegek",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/fhandlers/process_bronz.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/order.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/order.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/website_form.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/kapcs.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/fhandlers/process_website.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/seo_form.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/unique-seo.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/fhandlers/process_kapcsolat.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/fhandlers/class.phpmailer.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/fhandlers/class.pop3.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/fhandlers/class.smtp.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/kapcsolat.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/unique_dev.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/index.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/seopack.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/honlapcsomagok.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/referenciak.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/archive.php",
+		"/Users/Mate/Desktop/SimplejQueryDropdowns/index-hoverIntent.html",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-bloghome.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/blog_postlist.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/aboutme.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/timeline.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-aboutme.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/blog_single.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/single.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_us.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/ie.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/reference_module_home.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/ref_one.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/author.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/ref_lot.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/infield.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#237CBE",
+			"#F0F0F0",
+			"960",
+			"div#service_description",
+			"1024",
+			"price",
+			"justify",
+			"reflist",
+			"h3",
+			"1060",
+			"1024",
+			"phon",
+			"..images",
+			"package",
+			"csomag",
+			"660",
+			"article",
+			"660",
+			"bottom_menu",
+			"social",
+			"reference_list",
+			"bottom",
+			"blog_new",
+			"google",
+			"footer",
+			"bottom_menu",
+			"footer",
+			"services_left ",
+			"p.customer_name_list",
+			"order_info_title",
+			"postlist",
+			"F1CB30",
+			"ul.sub-menu ",
+			"company_info ",
+			"a#ref_left",
+			"ul#reference_list",
+			"references",
+			"refrences",
+			"blog_new",
+			"font",
+			"inline-block",
+			"main_menu",
+			"bottom_m",
+			"<li><input type=\"checkbox\" name=\"funkcio\" value=\"Funkció\" class=\"checkbox\" /> Funkció</li>",
+			"<li><input type=\"checkbox\" name=\"hangsuly\" value=\"Termékek\" class=\"checkbox\" /> Termékek</li>",
+			"<li><input type=\"checkbox\" name=\"tartalmak\" value=\"Alkalmazottak\" class=\"checkbox\" /> Alkalmazottak</li>",
+			"<p>",
+			"page",
+			"#s",
+			".s",
+			"label"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/application.css",
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/stylesheets/layout.css.scss",
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/layouts/_header.html.erb",
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/layouts/_sidebar.html.erb",
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/movies/_footer.html.erb",
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/movies/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/assets/stylesheets/movies.css.scss",
+					"settings":
+					{
+						"buffer_size": 3144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								270,
+								270
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/assets/stylesheets/_colors.css.scss",
+					"settings":
+					{
+						"buffer_size": 52,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"auto_name": "$primary-color: #237CBE;",
+							"incomplete_sync": null,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rongy.css",
+				"css/rongy.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true
+}

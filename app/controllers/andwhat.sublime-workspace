@@ -1,0 +1,669 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the_c",
+				"the_content"
+			],
+			[
+				"the_p",
+				"the_post_thumbnail"
+			],
+			[
+				"the",
+				"the_excerpt"
+			],
+			[
+				"th",
+				"the_permalink"
+			],
+			[
+				"is_arc",
+				"is_archive"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"service",
+				"service_description"
+			],
+			[
+				"uniq",
+				"unique_website"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bronz",
+				"bronz_mobile"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"the_t",
+				"the_title"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"con",
+				"conditional"
+			],
+			[
+				"nth",
+				":nth-child(|)"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"subject",
+				"subject_id"
+			],
+			[
+				"Admin",
+				"AdminUser"
+			],
+			[
+				"Ad",
+				"AdminUser"
+			],
+			[
+				"admin",
+				"admin_user"
+			],
+			[
+				"ad",
+				"admin_user"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"aut",
+				"authorized_user"
+			],
+			[
+				"mak",
+				"make"
+			],
+			[
+				"hash",
+				"hash_with_salt"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			],
+			[
+				"de",
+				"def	def … end"
+			],
+			[
+				"f",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"file",
+				"Open File Navigator"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"syntax",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruby",
+				"Format: Ruby"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"snippet jquery",
+				"Snippet: Google AJAX Libraries: jQuery"
+			],
+			[
+				"syntax html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"synta",
+				"Set Syntax: Ruby"
+			],
+			[
+				"coffee",
+				"WordPress Codex: Open Function Reference"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax ru",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/functions.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/archive-programok.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/header.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/archive-berlok.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/home.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/sass/sajto.scss",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/archive-sajto.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/page-palyazatiras.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/archive.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/inc/scroller.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/single-programok.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/sass/programok.scss",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/sass/style.scss",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/sass/inkubacio.scss",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/sass/kapcsolat.scss",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/footer.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/style.css",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/js/img_slider.js",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/sass/program.scss",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/sass/slider.css.scss",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/js/slider_settings.js",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/inc/meta.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/css/slider.css",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/single.php",
+		"/Users/Mate/Sites/uasablon/wp-content/themes/UA-Sablon/functions.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/archive-bérlők.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/header.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/functions.php",
+		"/Users/Mate/Sites/hatarmenti_wp/wp-content/themes/hatarmenti/css/jquery.mCustomScrollbar.css",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sajto.html",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sass/sajto.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/kapcsolat.html",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sass/kapcsolat.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sass/style.scss",
+		"/private/var/folders/90/wjyhxjfs3gz3xkhsk8z_sz2w0000gn/T/fz3temp-1/.htaccess",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/berlok.html",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sass/berlok.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sass/inkubacio.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/inkubacio.html",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sass/program.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/programok_details.html",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/css/jquery.mCustomScrollbar.css",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sass/slider.css.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/index.html",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/css/program.css",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/css/style.css",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/js/slider_settings.js",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sass/bigslider.css.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/programok.html",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sass/programok.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/sass/palyazatiras.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/palyazatiras.html",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Határmenti/honlap/css/ie.css",
+		"/Users/Mate/sites/rails_projects/brightenvision/app/views/blogposts/show.html.erb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/app/views/blogposts/edit.html.erb",
+		"/Users/Mate/sites/rails_projects/brightenvision/app/views/blogposts/index.html.erb",
+		"/Users/Mate/sites/rails_projects/brightenvision/app/controllers/blogposts_controller.rb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/spec/features/edit_blogpost_spec.rb",
+		"/Users/Mate/sites/rails_projects/brightenvision/spec/features/navigate_blog_spec.rb",
+		"/Users/Mate/sites/rails_projects/brightenvision/spec/features/show_blog_post_spec.rb",
+		"/Users/Mate/sites/rails_projects/brightenvision/spec/support/attributes.rb",
+		"/Users/Mate/sites/rails_projects/brightenvision/app/helpers/blogposts_helper.rb",
+		"/Users/Mate/sites/rails_projects/brightenvision/spec/features/list_blog_posts_spec.rb",
+		"/Users/Mate/sites/rails_projects/brightenvision/db/seeds.rb",
+		"/Users/Mate/sites/rails_projects/brightenvision/config/routes.rb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/app/views/blogposts/show.html.erb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/app/views/blogposts/index.html.erb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/spec/support/attributes.rb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/spec/features/navigate_blog_spec.rb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/spec/features/show_blog_post_spec.rb",
+		"/Users/Mate/sites/rails_projects/brightenvision/Gemfile",
+		"/Users/Mate/Sites/rails_projects/brightenvision/app/models/blogpost.rb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/config/initializers/date_time.rb",
+		"/Users/Mate/Sites/rails_projects/brightenvision/db/migrate/20130502141628_create_blogposts.rb",
+		"/Users/Mate/Sites/rails_projects/flix/config/database.yml",
+		"/Users/Mate/Sites/rails_projects/flix/Gemfile",
+		"/Users/Mate/Sites/rongy/rongy2.html",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Andris és társa/andris_honlap/sass/style.scss",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Andris és társa/andris_honlap/css/style.css",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Prezentálom/lore_honlap/sass/style.scss",
+		"/Users/Mate/Sites/rails_projects/greenlife/app/models/post.rb",
+		"/Users/Mate/Sites/rails_projects/greenlife/db/migrate/20130427111532_create_posts.rb",
+		"/Users/Mate/Sites/rails_projects/greenlife/db/migrate/20130427181211_clear_db.rb",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Prezentálom/lore_honlap/js/bselect.js",
+		"/private/var/folders/90/wjyhxjfs3gz3xkhsk8z_sz2w0000gn/T/fz3temp-1/ie.css",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Prezentálom/lore_honlap/css/ie.css",
+		"/Users/Mate/Projects/Bevisible/Ügyfelek/Prezentálom/lore_honlap/style.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/honlapcsomagok.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-webdev.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/package_comp960.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_pchart.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-order-skype.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/404.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/home.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_settings.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/style.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/fhandlers/process_profit.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-order.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-kapcsolat.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/kapcsolat.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/timeline.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/timeline.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/blog_head.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/blog_home.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/blog_single.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/blog_home.css",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-refs.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/main.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/refs.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/referenciak.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/slider.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/website_form.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-unique-webdev.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/unique_dev.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/unique-seo.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/page-seopack.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_sp.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/seopack.scss",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_hcs.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/unique-seo.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/package_comp800.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/footer.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/js/enquire_menu.js",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/style.css",
+		"/Users/Mate/Projects/ÜA/uaszerveradatok.txt",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/company_info.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/inc/services_module_home.php",
+		"/Users/Mate/Sites/bevisible/wp-content/themes/bevisible/css/order.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img/",
+			"/img",
+			"img/",
+			"../img",
+			"960",
+			"div#service_description",
+			"1024",
+			"price",
+			"justify",
+			"reflist",
+			"h3",
+			"1060",
+			"1024",
+			"phon",
+			"..images",
+			"package",
+			"csomag",
+			"660",
+			"article",
+			"660",
+			"bottom_menu",
+			"social",
+			"reference_list",
+			"bottom",
+			"blog_new",
+			"google",
+			"footer",
+			"bottom_menu",
+			"footer",
+			"services_left ",
+			"p.customer_name_list",
+			"order_info_title",
+			"postlist",
+			"F1CB30",
+			"ul.sub-menu ",
+			"company_info ",
+			"a#ref_left",
+			"ul#reference_list",
+			"references",
+			"refrences",
+			"blog_new",
+			"font",
+			"inline-block",
+			"main_menu",
+			"bottom_m",
+			"<li><input type=\"checkbox\" name=\"funkcio\" value=\"Funkció\" class=\"checkbox\" /> Funkció</li>",
+			"<li><input type=\"checkbox\" name=\"hangsuly\" value=\"Termékek\" class=\"checkbox\" /> Termékek</li>",
+			"<li><input type=\"checkbox\" name=\"tartalmak\" value=\"Alkalmazottak\" class=\"checkbox\" /> Alkalmazottak</li>",
+			"<p>",
+			"page",
+			"#s",
+			".s",
+			"label"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php bloginfo('template_url'); ?>/images/",
+			"/images",
+			"<?php bloginfo('template_url'); ?>/images/",
+			"images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rongy.css",
+				"css/rongy.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true
+}
