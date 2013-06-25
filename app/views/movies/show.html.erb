@@ -12,7 +12,23 @@
   <h3 class="no-rule">
     <%= @movie.rating %> &bull; <%= @movie.duration %> 
   </h3>
-  
+  <h3>Average Review</h3>
+  <p>
+    <%= format_average_stars(@movie) %>
+  </p>
+  <% if @movie.recent_reviews.any? %>
+    <h3>Reviews</h3>
+    <ol id="reviews">
+      <% @movie.recent_reviews.each do |review| %>
+         ...
+      <% end %>
+    </ol>
+    <p>
+      Read all <%= link_to pluralize(@movie.reviews.size, "review"), 
+                      movie_reviews_path(@movie) %>
+    </p>
+  <% end %>
+
   <h3>Cast</h3>
   <p>
     <%= @movie.cast %>
@@ -27,13 +43,17 @@
   <p>
     <%= format_total_gross(@movie) %>
   </p>
-  
+  <p>
+    <%= link_to pluralize(@movie.reviews.count, 'review'), movie_reviews_path(@movie) %>
+  </p>
   <footer>
     <nav>
       <%= link_to 'Edit', edit_movie_path(@movie), class: 'button' %>
       <%= link_to 'Delete', @movie, 
                   class: 'button',
                   method: :delete, data: { confirm: 'Are you sure?' } %>
+      <%= link_to "Write Review", new_movie_review_path(@movie), 
+             class: 'button ok review' %>
     </nav>
   </footer>
 </article>
